@@ -1,3 +1,5 @@
 function print_hello_world() {
-	console.log('Hello world!');
+	const a = "Soft";
+	const b = "Uni";
+	return a + b;
 };
