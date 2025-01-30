@@ -1,7 +1,4 @@
-function print_hello_world() {
-	// declare 2 constants
-	const a = "Soft";
-	const b = "Uni";
-	// return them concatenated as a string
+// simple function that takes 2 numbers as parameters
+function numbers_sum(a, b) {
 	return a + b;
 };
